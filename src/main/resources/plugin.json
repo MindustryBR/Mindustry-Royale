@@ -1,0 +1,7 @@
+{
+  "name": "PluginTemplate",
+  "author": "King-BR",
+  "main": "template.PluginTemplate",
+  "description": "A plugin template.",
+  "version": 1.0
+}
